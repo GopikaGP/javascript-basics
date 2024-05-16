@@ -1,0 +1,7 @@
+javascript
+can be used in both frondend and backend
+ 1) frondend:behaviour
+ 2) backend:logical opertion
+other name of js is single thread programming - line by line execution
+Node js: its an open source js runtime enviornment that execute javascript code outside a web browser.
+
